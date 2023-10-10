@@ -42,7 +42,8 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
-![exp 4 2](https://github.com/Ragu-123/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/113915622/49638409-6137-45ef-85d3-ed9f16720ba3)
+![4 2 NEW RAGU_page-0001](https://github.com/Ragu-123/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/113915622/3ddaa3fb-8c62-434c-9b9b-e26cc9853beb)
+
 
 ## RESULT:
 Thus, the cut section for solid model is created.
